@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Deare and truely beloved in the everlasting seed and holy covenant of life eternall doth my soule salute you</title>
+            <author>Crisp, Stephen, 1628-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34989</idno>
+            <idno type="STC">Wing C6927</idno>
+            <idno type="STC">ESTC R26650</idno>
+            <idno type="EEBO-CITATION">09523117</idno>
+            <idno type="OCLC">ocm 09523117</idno>
+            <idno type="VID">43421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43421)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1328:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Deare and truely beloved in the everlasting seed and holy covenant of life eternall doth my soule salute you</title>
+                  <author>Crisp, Stephen, 1628-1692.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: S.C.</note>
+                  <note>Title from incipit.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:43421:1"/>
+            <p>DEare and truely beloved in the everlaſting Seed and holy Co<g ref="char:EOLhyphen"/>venant of Life Eternall, doth my ſoule ſalute you, with Love unfeigned, for by the ſame holy pure ſpi<g ref="char:EOLhyphen"/>rit, by which we have been comforted and refreſhed in one another many a time when we have been together, by the ſame are you brought to my remembrance, and my ſpirit gives thanks to God dayly on your behalf (to whom I am knit and united by a bond inſeparable) becauſe of your preſervation in the faith, and pati<g ref="char:EOLhyphen"/>ence of Jeſus our Lord, that though the mountains have ſwelled to a great height, and the waves of the raging Sea hath rowled ſo violently againſt the rock of your dwelling; yet you are where you were, and your faith is confirmed through your tribulations, and your patience en<g ref="char:EOLhyphen"/>larged through the experience thereof. Oh deare Lambes! What hath our God done for us? His arme hath been underneath in
+<pb n="2" facs="tcp:43421:2"/>all our tryalls, elſe we muſt needs have fainted long e're now: But herein doth my ſoule rejoyce, that your teſtimony doth live, and that all the ſtrength of dark<g ref="char:EOLhyphen"/>neſs ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h not ſl<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> it, but it remains as a Crowne upon your heads. Oh my dear friends, let no man take away this your Crowne, and let none loſe the price he hath already payd, for if any man ſuffer his teſti<g ref="char:EOLhyphen"/>mony to fall, after he hath begun to bear it, he loſeth his ſufferings that he hath ſuffered, and 'tis not accounted unto him, but as a reproach, as he that began to build an houſe, and could not finiſh it: Therefore, dear hearts, you that have this glorious teſtimo<g ref="char:EOLhyphen"/>ny of ſalvation and life committed unto you, be tender and carefull of it, as of your moſt choice treaſure, &amp; count it not a ſmall thing that God hath done for you; for no honour is like unto this honour, nor no free<g ref="char:EOLhyphen"/>dom is like the being a faithfull ſervant of God; for it hath the reward of this life, and of that which is to come: But alaſs, my dear <hi>friends,</hi> none can accompliſh this bleſſed teſtimony in theſe dayes of tryall, but thoſe alone, who knows the dayly renewing of
+<pb n="3" facs="tcp:43421:2"/>that power, by which we were called unto it; and none feels thoſe renewings, but they that dayly wait upon the Lord, who is the well ſpring of all our ſtrength and refreſh<g ref="char:EOLhyphen"/>ment; and when ſo ever any comes to ſlight their watch, and to neglect their wait<g ref="char:EOLhyphen"/>ing upon God, they are but as thoſe that forſake the Fountain, and grows into dry<g ref="char:EOLhyphen"/>neſs and barrenneſs, and becomes unfruit<g ref="char:EOLhyphen"/>full to God, or their own good: Therefore keep your dependence upon the Lord, that ye may abide, (for he abideth) and they that are built upon him alone, do alſo abide unto the end; for 'tis the unchangeable power which maketh you unchangeable in your teſtimony; and as you dwell in that, you have the promiſe, and cannot be brought to naught, as many have been, who have been exalted in the Knowledge, and grown care<g ref="char:EOLhyphen"/>leſs of the Croſs, who are already fallen, and ſet forth (as <hi>Lots</hi> Wife once was) as ex<g ref="char:EOLhyphen"/>ampſes of the judgement of God: but ſuch as have their depondance upon the Lord alone, fe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alw<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es cauſe in themſelves to be humble, and lowly minded; and although they be joyned to the power of God in the
+<pb n="4" facs="tcp:43421:3"/>Covenant of his Light, yet ſelfe is kept in the death, and the confidence is in the power, and the honour of all is given to that which is eternall, and not to the creature, though never ſo pure: And they who thus in the true humility gives the honour of their ſtanding and preſervation unto the Lord, and not unto themſelves, nor their parts, wits, underſtandings, nor reſolutions, theſe doth God ſufficiently honour with his glory and preſence, and ſupports them in all their exerciſes: But who ever comes to diſ<g ref="char:EOLhyphen"/>regard the power, and thinks to ſtand by what he knows, and hath ſeen, he ſtands but in a ſlippery place.</p>
+            <p>And dear Friends and Brethren, Remem<g ref="char:EOLhyphen"/>ber to keep holy the Sabbath of the Lord our God which is now come, and ſee that you reſt from your labours and toyling your ſpirits in the earth, and earthly things; and whoever feels a burthen, lay it off, what<g ref="char:EOLhyphen"/>ever it be, that ye may poſſeſs all things in the free ſpirit, that looks not at the vallue of any thing in compariſon of the truth, re<g ref="char:EOLhyphen"/>membring the words of the Lord, <hi>That where the treaſure is, the heart will alſo be:</hi>
+               <pb n="5" facs="tcp:43421:3"/>So that whoſe heart is in a Wife, in an Huſ<g ref="char:EOLhyphen"/>band, in Children, in Trade, in Riches, in Houſes and Lands, or whatever elſe, ſo farr that they cannot willingly give them up for the truth, theſe are ſuch as ones treaſure, and this treaſure is in the earth, and the heart is there, whatever they profeſs; and theſe things comes to be the gods in the ſe<g ref="char:EOLhyphen"/>cret chambers beſides the Lord; and ſo his firſt and laſting Commandement (who ſaid) <hi>Thou ſhalt have none other gods beſides me,</hi> is broken; and this brings guilt and burthens upon the ſoule, and then thou canſt not keep Sabbath to God, for no burthen muſt be borne thereon, but he that is entred into the reſt, is ceaſed from his labour, as God did from his, and ſuch keeps the holy Sab<g ref="char:EOLhyphen"/>bath. So, dearly beloved, eaſt away that labour and toyle which hath made ſome to walk uncomfortably in the way, and ſome to faint and fall from it, and lift up your hearts to God in the faith, and give up your ſelves, and all things in his will, and there comes an end of all your cares at once, ſave<g ref="char:EOLhyphen"/>ing onely to be found doing his will in your Generation.</p>
+            <pb n="6" facs="tcp:43421:4"/>
+            <p> And in this bleſſed ſervice, is my rejoyce<g ref="char:EOLhyphen"/>ing, and my fellowſhip with you, and with all the faithfull in <hi>Chriſt Jeſus,</hi> in whoſe love my heart is at this time inlarged towards you, beyond what words can utter; yet having no new thing to write unto you, but the very ſame which we have heard and learnt from the beginning, to wit, that glo<g ref="char:EOLhyphen"/>rious teſtimony of the Reſurrection of Life and of ſalvation, which God, through the manifeſtation of his Sonne, hath committed unto us to beare, in which bleſſed teſtimo<g ref="char:EOLhyphen"/>ny, I ſtill labour in the ſtrength of the Lord, and he hath bleſſed me therein, and cauſed me, by the operation of his divine love, to ſound the ſame Goſpel unto ſeverall Coun<g ref="char:EOLhyphen"/>tries and Nations in the Eaſterne parts of the World, where a door of utterance is opened unto me, and many hath believed, and obeyed the truth; and having now been in <hi>England</hi> viſiting the Churches of Chriſt about foure Moneths, I am again, in the will of God, about to croſs the Seas, though I much deſired firſt to have ſeen your faces in the Northerne parts, whom my ſoule deare<g ref="char:EOLhyphen"/>ly loves; but the neceſſities of other Nati<g ref="char:EOLhyphen"/>ons
+<pb n="7" facs="tcp:43421:4"/>and Countries, brings a conſtraint up<g ref="char:EOLhyphen"/>on me at this time to omit it; but the ſa<g ref="char:EOLhyphen"/>lutation of my love abounds towards you, and I pray God give you a liveing ſence thereof in your ſelves, to the comforting and refreſhing of every faithfull one a<g ref="char:EOLhyphen"/>mongſt you. Farewell, and the God of Peace multiply and increaſe his goodneſs in all your ſoules, and preſerve you alive to himſelf, to beare his holy teſtimony amongſt his enemies, that the World may know that he is riſen that ſaves and preſerves from falling, to whom belongs everlaſting honour, everlaſting renowne and dominion for ever, and evermore.</p>
+            <closer>
+               <dateline>Eſſex <date>this 15th. of the firſt Moneth, 1670.</date>
+               </dateline> 
+               <signed>Your deare Friend and Brother in the Truth, and Companion in the King<g ref="char:EOLhyphen"/>dome, patience, and tribulations of Jeſus. <hi>S. C.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
